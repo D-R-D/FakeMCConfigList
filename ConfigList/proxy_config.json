@@ -1,0 +1,27 @@
+{
+  "ip": "0.0.0.0",
+  "kick_message": [
+      "ﾂｧ4Hosting Server offline",
+      "",
+      "ﾂｧb:SERVER STATUS:",
+      "",
+      "ﾂｧa DNS[OK] -> Proxy Server[OK] -> ﾂｧ4HOST Server[ERROR] -> ﾂｧelobby[UNKNOWN]"
+  ],
+  "motd": {
+      "1": "ﾂｧ4Now this Server is offline.",
+      "2": "ﾂｧaPlease check discord and Report to Admin."
+  },
+  "player_max": 0,
+  "player_online": 0,
+  "port": 25565,
+  "protocol": 2,
+  "samples": [
+      "ﾂｧb{domain}",
+      "",
+      "ﾂｧ4OFFLINE"
+  ],
+  "server_icon": "server_icon.png",
+  "show_hostname_if_available": true,
+  "show_ip_if_hostname_available": true,
+  "version_text": "ﾂｧ4OFFLINE"
+}
