@@ -1,0 +1,25 @@
+{
+  "ip": "0.0.0.0",
+  "kick_message": [
+      "§4Minecraft server is offline",
+      "",
+      "§b:SERVER STATUS:",
+      "",
+      "§a DNS[OK] -> Proxy server[OK] -> Host server[OK] -> §4Lobby[ERROR]"
+  ],
+  "motd": {
+      "1": "§4Now this server is offline.",
+      "2": "§aPlease check discord and report to Admin."
+  },
+  "player_max": 0,
+  "player_online": 0,
+  "port": 25565,
+  "protocol": 761,
+  "samples": [
+      "§4OFFLINE"
+  ],
+  "server_icon": "server_icon.png",
+  "show_hostname_if_available": true,
+  "show_ip_if_hostname_available": true,
+  "version_text": "§4OFFLINE"
+}
